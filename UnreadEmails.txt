@@ -1,0 +1,173 @@
+Total Unread Messages Count 43
+Message #1
+	Sender : me
+	Subject : ABC
+
+Message #2
+	Sender : Medium Daily Digest
+	Subject : “I Cured My Social Media Addiction by Reading Books” published by Simon Doherty
+
+Message #3
+	Sender : Medium Daily Digest
+	Subject : “Let’s Stop Pretending Christianity is Actually Relevant, Okay?” published in HeartSupport by Benjamin Sledge
+
+Message #4
+	Sender : Coursera
+	Subject : NEW from deeplearning.ai! TensorFlow in Practice Specialization
+
+Message #5
+	Sender : Fabiola Chavez
+	Subject : Enrollments Open | Data Scientist at Uber Shares Some Perspective
+
+Message #6
+	Sender : Quora Digest
+	Subject : The CEO offered me 15% shares to join as CTO. They are already profitable. Is there a...?
+
+Message #7
+	Sender : Academia.edu
+	Subject : New Related Paper: "MARRIAGE IN KASHMIR: CUSTOMS, TRADITIONS AND CHANGES OVER THE YEARS"
+
+Message #8
+	Sender : Medium Daily Digest
+	Subject : “Why Decentralization Matters” published by Chris Dixon
+
+Message #9
+	Sender : Codewars
+	Subject : Weekly Coding Challenges
+
+Message #10
+	Sender : YouTube
+	Subject : Vox just uploaded a video
+
+Message #11
+	Sender : Medium Daily Digest
+	Subject : “Apple Is Designing for a Post-Facebook World” published in Fast Company
+
+Message #12
+	Sender : A Workout Routine
+	Subject : How to get a "beach body" this summer
+
+Message #13
+	Sender : Quora Digest
+	Subject : Why is Java losing popularity?
+
+Message #14
+	Sender : Slack
+	Subject : [Slack] Notifications from the ALC 4 Cloud workspace for June 18th, 2019 at 8:26 AM
+
+Message #15
+	Sender : Medium Daily Digest
+	Subject : “A Minimalist Lifestyle” published in Simple, Not Easy by Jennifer Chan
+
+Message #16
+	Sender : Slack
+	Subject : [Slack] Notifications from the ALC 4 Cloud workspace for June 18th, 2019 at 8:11 AM
+
+Message #17
+	Sender : Fabiola Chavez
+	Subject : July 1 Bootcamps Closing in a Few Hours
+
+Message #18
+	Sender : Pocket
+	Subject : Make Your Commute Productive, Not Dead Time
+
+Message #19
+	Sender : Discord
+	Subject : Discord Password Changed
+
+Message #20
+	Sender : Andela Learning Com.
+	Subject : [Reminder] - ALC 4.0 Scholars Onboarding Call
+
+Message #21
+	Sender : Fabiola Chavez
+	Subject : Last Day to Apply | March Data Science and AI Bootcamps Closing
+
+Message #22
+	Sender : Slack
+	Subject : [Slack] Notifications from the ALC 4 Cloud workspace for June 17th, 2019 at 3:56 PM
+
+Message #23
+	Sender : support
+	Subject : News API registration complete!
+
+Message #24
+	Sender : Chris Paul
+	Subject : Go Pro. Support using advanced features.
+
+Message #25
+	Sender : Spotify
+	Subject : £0.99 for 3 months of Premium: ending soon
+
+Message #26
+	Sender : Medium Daily Digest
+	Subject : “Our Relationships Are Mirrors for Ourselves” published by Brianna Wiest
+
+Message #27
+	Sender : Slack
+	Subject : ALC 4 Cloud on Slack: New Account Details
+
+Message #28
+	Sender : Pluralsight
+	Subject : New device added to your account.
+
+Message #29
+	Sender : Medium Daily Digest
+	Subject : “Survival of the Richest” published by Douglas Rushkoff
+
+Message #30
+	Sender : GDG Addis
+	Subject : How was Google I/O Extended 2019 Addis Ababa?
+
+Message #31
+	Sender : Feedspot Today
+	Subject : The world’s disappearing underwater cities: coral reefs, Reaching Out,                        ..
+
+Message #32
+	Sender : Medium Daily Digest
+	Subject : “Enjoli” published by Kristi Coulter
+
+Message #33
+	Sender : Google
+	Subject :  - 
+
+Message #34
+	Sender : Spotify
+	Subject : New music from artists you love, with Martin Garrix on your Release Radar now
+
+Message #35
+	Sender : Fabrik
+	Subject : What makes a stand-out portfolio website?
+
+Message #36
+	Sender : Medium Daily Digest
+	Subject : “7 Practical Tips for Cheating at Design” published in Refactoring UI by Adam Wathan & Steve Schoger
+
+Message #37
+	Sender : Quincy Larson
+	Subject : Learn the math of Statistics in just 8 hours with this free course for developers
+
+Message #38
+	Sender : YouTube
+	Subject : Vox just uploaded a video
+
+Message #39
+	Sender : Quora Digest
+	Subject : Why would you prefer MySQL over Microsoft SQL Server?
+
+Message #40
+	Sender : Justinmind
+	Subject : Prototyping with Justinmind: Share your prototypes
+
+Message #41
+	Sender : Medium Daily Digest
+	Subject : “Handling ViewState With Retry Support on Android Using RxJava” published in Better Programming by Mustafa Berkay Mutlu
+
+Message #42
+	Sender : Tumblr
+	Subject : Your blog cravings, satisfied
+
+Message #43
+	Sender : Academia.edu
+	Subject : New Related Paper: "Kamwe People of Northern Nigeria: Origin, History and Culture"
+
